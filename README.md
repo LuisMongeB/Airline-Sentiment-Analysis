@@ -7,3 +7,4 @@ This included topics such as:
 - What are exploding and vanishing gradients?
 - Difference between LSTMs and GRUs
 - Bidirectional LSTMs
+- Text Embeddings
